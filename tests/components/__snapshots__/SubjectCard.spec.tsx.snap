@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Subject Card must render the component as expected 1`] = `
+<div>
+  <div
+    className="close-btn"
+    onClick={[MockFunction]}
+  >
+    <img
+      src=""
+    />
+  </div>
+  <p
+    className="subject-name"
+  >
+    fixed name
+  </p>
+  <p
+    className="acronym"
+  >
+    FN
+  </p>
+  <p
+    className="hours"
+  >
+    20
+  </p>
+</div>
+`;
