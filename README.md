@@ -1,4 +1,4 @@
-# minha-grade-curricular
+# Minha Grade Curricular
 
 A repo dedicated to the Minha Grade Curricular project
 
